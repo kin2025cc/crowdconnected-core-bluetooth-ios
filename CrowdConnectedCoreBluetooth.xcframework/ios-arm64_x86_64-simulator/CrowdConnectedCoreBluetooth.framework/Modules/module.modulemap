@@ -6,6 +6,6 @@ framework module CrowdConnectedCoreBluetooth {
 }
 
 module CrowdConnectedCoreBluetooth.Swift {
-    header "CrowdConnectedCoreBluetooth-Swift.h"
-    requires objc
+  header "CrowdConnectedCoreBluetooth-Swift.h"
+  requires objc
 }
