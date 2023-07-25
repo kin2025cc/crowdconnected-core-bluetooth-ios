@@ -18,7 +18,7 @@
 		</data>
 		<key>Modules/CrowdConnectedCoreBluetooth.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		RpSYt+32QWDlbo9nrR9nrYByFUE=
+		SNl3DG7Y6o6NkL/coPrtsbUAj+I=
 		</data>
 		<key>Modules/CrowdConnectedCoreBluetooth.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -34,11 +34,11 @@
 		</data>
 		<key>Modules/CrowdConnectedCoreBluetooth.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		gOHBtkIoLjh1kTPnL+LdLFAYslA=
+		4Tlxic1GU18PUJnqGws5QclZ0tU=
 		</data>
 		<key>Modules/CrowdConnectedCoreBluetooth.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		RpSYt+32QWDlbo9nrR9nrYByFUE=
+		SNl3DG7Y6o6NkL/coPrtsbUAj+I=
 		</data>
 		<key>Modules/CrowdConnectedCoreBluetooth.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -54,7 +54,7 @@
 		</data>
 		<key>Modules/CrowdConnectedCoreBluetooth.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		ep5gsH57l9WqRYew6CMX//FR1TQ=
+		pN94ZsaMuFlnNQO+9oamFEf4I4E=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -81,7 +81,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			0mi28pndqoR438yPKCkiFd8uuVYd1cjj5Mff8G+S7gA=
+			ITVHV5zUm6bbTBJ365td2hQ3cXGdO4D5nf+fNzMnRWA=
 			</data>
 		</dict>
 		<key>Modules/CrowdConnectedCoreBluetooth.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
@@ -109,14 +109,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			nyHV7mmv+zk0OGkq36HugfkkwbgE9y61m9LfxrQTfEs=
+			/2PLxx2MIVrii7hvmaEzd9Rz2QnIPQ9tcKt3ierwiAo=
 			</data>
 		</dict>
 		<key>Modules/CrowdConnectedCoreBluetooth.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			0mi28pndqoR438yPKCkiFd8uuVYd1cjj5Mff8G+S7gA=
+			ITVHV5zUm6bbTBJ365td2hQ3cXGdO4D5nf+fNzMnRWA=
 			</data>
 		</dict>
 		<key>Modules/CrowdConnectedCoreBluetooth.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
@@ -144,7 +144,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			MLnfEohex+y9eCJ6/x/VCr/sLIX+FN0pPA1uCC/wPb0=
+			UDSWMKPC37CjfWw+AUBZo7OH3szjBONEiOuLga+itwM=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
