@@ -276,98 +276,161 @@
     {
       "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/CrowdConnectedCoreBluetooth\/CrowdConnectedCoreBluetooth\/Scanner\/BeaconScanner.swift",
       "kind": "BooleanLiteral",
-      "offset": 644,
+      "offset": 824,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/CrowdConnectedCoreBluetooth\/CrowdConnectedCoreBluetooth\/Scanner\/BeaconScanner.swift",
+      "kind": "BooleanLiteral",
+      "offset": 866,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/CrowdConnectedCoreBluetooth\/CrowdConnectedCoreBluetooth\/Scanner\/BeaconScanner.swift",
+      "kind": "BooleanLiteral",
+      "offset": 924,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/CrowdConnectedCoreBluetooth\/CrowdConnectedCoreBluetooth\/Scanner\/BeaconScanner.swift",
       "kind": "Array",
-      "offset": 690,
+      "offset": 970,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/CrowdConnectedCoreBluetooth\/CrowdConnectedCoreBluetooth\/Scanner\/BeaconScanner.swift",
       "kind": "StringLiteral",
-      "offset": 987,
-      "length": 42,
-      "value": "\"Start scanning for Bluetooth peripherals\""
+      "offset": 1114,
+      "length": 43,
+      "value": "\"Enable scanning for Bluetooth peripherals\""
+    },
+    {
+      "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/CrowdConnectedCoreBluetooth\/CrowdConnectedCoreBluetooth\/Scanner\/BeaconScanner.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1188,
+      "length": 4,
+      "value": "true"
     },
     {
       "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/CrowdConnectedCoreBluetooth\/CrowdConnectedCoreBluetooth\/Scanner\/BeaconScanner.swift",
       "kind": "StringLiteral",
-      "offset": 1165,
+      "offset": 1313,
       "length": 41,
       "value": "\"Stop scanning for Bluetooth peripherals\""
     },
     {
       "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/CrowdConnectedCoreBluetooth\/CrowdConnectedCoreBluetooth\/Scanner\/BeaconScanner.swift",
-      "kind": "StringLiteral",
-      "offset": 1400,
-      "length": 28,
-      "value": "\"Update to use NIDs \""
+      "kind": "BooleanLiteral",
+      "offset": 1385,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/CrowdConnectedCoreBluetooth\/CrowdConnectedCoreBluetooth\/Scanner\/BeaconScanner.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1420,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/CrowdConnectedCoreBluetooth\/CrowdConnectedCoreBluetooth\/Scanner\/BeaconScanner.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1470,
+      "length": 5,
+      "value": "false"
     },
     {
       "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/CrowdConnectedCoreBluetooth\/CrowdConnectedCoreBluetooth\/Scanner\/BeaconScanner.swift",
       "kind": "StringLiteral",
-      "offset": 1427,
+      "offset": 1713,
+      "length": 24,
+      "value": "\"Update NIDs to \""
+    },
+    {
+      "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/CrowdConnectedCoreBluetooth\/CrowdConnectedCoreBluetooth\/Scanner\/BeaconScanner.swift",
+      "kind": "StringLiteral",
+      "offset": 1736,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/CrowdConnectedCoreBluetooth\/CrowdConnectedCoreBluetooth\/Scanner\/BeaconScanner.swift",
-      "kind": "BooleanLiteral",
-      "offset": 1573,
-      "length": 4,
-      "value": "true"
-    },
-    {
-      "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/CrowdConnectedCoreBluetooth\/CrowdConnectedCoreBluetooth\/Scanner\/BeaconScanner.swift",
-      "kind": "BooleanLiteral",
-      "offset": 1709,
-      "length": 4,
-      "value": "true"
-    },
-    {
-      "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/CrowdConnectedCoreBluetooth\/CrowdConnectedCoreBluetooth\/Scanner\/BeaconScanner.swift",
       "kind": "StringLiteral",
-      "offset": 2466,
+      "offset": 2562,
       "length": 54,
       "value": "\"Unable to find service data; can't process Eddystone\""
     },
     {
       "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/CrowdConnectedCoreBluetooth\/CrowdConnectedCoreBluetooth\/Scanner\/BeaconScanner.swift",
+      "kind": "BooleanLiteral",
+      "offset": 4306,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/CrowdConnectedCoreBluetooth\/CrowdConnectedCoreBluetooth\/Scanner\/BeaconScanner.swift",
       "kind": "StringLiteral",
-      "offset": 3732,
+      "offset": 4386,
+      "length": 42,
+      "value": "\"Start scanning for Bluetooth peripherals\""
+    },
+    {
+      "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/CrowdConnectedCoreBluetooth\/CrowdConnectedCoreBluetooth\/Scanner\/BeaconScanner.swift",
+      "kind": "BooleanLiteral",
+      "offset": 4488,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/CrowdConnectedCoreBluetooth\/CrowdConnectedCoreBluetooth\/Scanner\/BeaconScanner.swift",
+      "kind": "BooleanLiteral",
+      "offset": 4536,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/CrowdConnectedCoreBluetooth\/CrowdConnectedCoreBluetooth\/Scanner\/BeaconScanner.swift",
+      "kind": "BooleanLiteral",
+      "offset": 4664,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/CrowdConnectedCoreBluetooth\/CrowdConnectedCoreBluetooth\/Scanner\/BeaconScanner.swift",
+      "kind": "StringLiteral",
+      "offset": 4876,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/CrowdConnectedCoreBluetooth\/CrowdConnectedCoreBluetooth\/Scanner\/BeaconScanner.swift",
       "kind": "IntegerLiteral",
-      "offset": 3811,
+      "offset": 4955,
       "length": 2,
       "value": "16"
     },
     {
       "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/CrowdConnectedCoreBluetooth\/CrowdConnectedCoreBluetooth\/Scanner\/BeaconScanner.swift",
       "kind": "BooleanLiteral",
-      "offset": 3826,
+      "offset": 4970,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/CrowdConnectedCoreBluetooth\/CrowdConnectedCoreBluetooth\/Scanner\/BeaconScanner.swift",
       "kind": "IntegerLiteral",
-      "offset": 3868,
+      "offset": 5012,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/CrowdConnectedCoreBluetooth\/CrowdConnectedCoreBluetooth\/Scanner\/BeaconScanner.swift",
       "kind": "StringLiteral",
-      "offset": 3902,
+      "offset": 5046,
       "length": 3,
       "value": "\"0\""
     },
@@ -388,14 +451,14 @@
     {
       "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/CrowdConnectedCoreBluetooth\/CrowdConnectedCoreBluetooth\/Interface\/CrowdConnectedCoreBluetooth.swift",
       "kind": "StringLiteral",
-      "offset": 1701,
+      "offset": 1758,
       "length": 10,
       "value": "\"isActive\""
     },
     {
       "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/CrowdConnectedCoreBluetooth\/CrowdConnectedCoreBluetooth\/Interface\/CrowdConnectedCoreBluetooth.swift",
       "kind": "BooleanLiteral",
-      "offset": 1713,
+      "offset": 1770,
       "length": 4,
       "value": "true"
     },
@@ -409,7 +472,7 @@
     {
       "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/CrowdConnectedCoreBluetooth\/CrowdConnectedCoreBluetooth\/StateMonitor\/CoreBluetoothStateMonitor.swift",
       "kind": "Array",
-      "offset": 3081,
+      "offset": 3083,
       "length": 2,
       "value": "[]"
     },
