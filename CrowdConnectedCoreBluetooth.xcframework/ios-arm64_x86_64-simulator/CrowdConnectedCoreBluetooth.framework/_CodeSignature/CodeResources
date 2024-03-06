@@ -6,7 +6,7 @@
 	<dict>
 		<key>Headers/CrowdConnectedCoreBluetooth-Swift.h</key>
 		<data>
-		o2hCqfXLwmT8BFbRE+Iss/f8GL4=
+		iir4adFssBcFMCvleUZ+E9K2O2g=
 		</data>
 		<key>Headers/CrowdConnectedCoreBluetooth.h</key>
 		<data>
@@ -14,7 +14,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		2Iz8Td2el+tLkaL0uw3PMTumLbM=
+		Qq3SV9kQifUJ7XMmFWOGxdIlp38=
 		</data>
 		<key>Modules/CrowdConnectedCoreBluetooth.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
@@ -22,19 +22,19 @@
 		</data>
 		<key>Modules/CrowdConnectedCoreBluetooth.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		uYJFlSC9sRRWab0x5dcUo+oZGBw=
+		XzS/TkI5c+9FS91AHbpUZjCnj40=
 		</data>
 		<key>Modules/CrowdConnectedCoreBluetooth.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		LQgUP3/+v2nZ5KKvlAqrzD/MXC8=
+		K2Eq9aXHGBFrjjOmQZmqiWNx6WU=
 		</data>
 		<key>Modules/CrowdConnectedCoreBluetooth.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		uYJFlSC9sRRWab0x5dcUo+oZGBw=
+		XzS/TkI5c+9FS91AHbpUZjCnj40=
 		</data>
 		<key>Modules/CrowdConnectedCoreBluetooth.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		Ow7ntJWsl/uYOgOz56yzxrhKZk8=
+		Ja9M/a5l7Y0bq6gnv8ayu0ZiYws=
 		</data>
 		<key>Modules/CrowdConnectedCoreBluetooth.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
@@ -42,19 +42,19 @@
 		</data>
 		<key>Modules/CrowdConnectedCoreBluetooth.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		l5aHDZBwz3fsH+leM4UR9lFEPfg=
+		rbkTn+btgr8hdjpQFDZsksjpQLc=
 		</data>
 		<key>Modules/CrowdConnectedCoreBluetooth.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		vVp/eAJur7pAOKnWk4jskeMMMjo=
+		3fpefi+LfVG4dIRzlURWB4A6s+w=
 		</data>
 		<key>Modules/CrowdConnectedCoreBluetooth.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		l5aHDZBwz3fsH+leM4UR9lFEPfg=
+		rbkTn+btgr8hdjpQFDZsksjpQLc=
 		</data>
 		<key>Modules/CrowdConnectedCoreBluetooth.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		e5We9dHYOWO4prFVjlfnZ156reo=
+		Pbo3IX1bMp3uJD4sam8idZJU0UM=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -67,7 +67,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			n5K7VJaT9v8f4L7Uh3NvsYFFaDthFzlFTlCqdzXJSRI=
+			Vb2SnnXcF/jnpGVQ0Nax2iQIvCTIns9I99Rrqr+tkNk=
 			</data>
 		</dict>
 		<key>Headers/CrowdConnectedCoreBluetooth.h</key>
@@ -88,28 +88,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			pII3Yl9TThFSQr0R9i7EaK2br56A4KfJRtif9J12c14=
+			qS06K/6fa5gnuCBmAwlXMLE5BFkkb1GGlwbYapJwHR4=
 			</data>
 		</dict>
 		<key>Modules/CrowdConnectedCoreBluetooth.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			+PgrkxBhgySI3KyipZxBVExEiDfrZumZ9PVuNPO2iiA=
+			KtcOXGb0X5bPnPx0B74A1Ek66xuJUsoo1OZi6UgGB1Q=
 			</data>
 		</dict>
 		<key>Modules/CrowdConnectedCoreBluetooth.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			pII3Yl9TThFSQr0R9i7EaK2br56A4KfJRtif9J12c14=
+			qS06K/6fa5gnuCBmAwlXMLE5BFkkb1GGlwbYapJwHR4=
 			</data>
 		</dict>
 		<key>Modules/CrowdConnectedCoreBluetooth.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			xmGpaLifSbHqd3uyMeCkrtdzpe40G9PNHqlIucSlBJA=
+			kUI2GQa1PzNT6zxoSuJ5qKRdWu9fwY6s/qwsBzItlMQ=
 			</data>
 		</dict>
 		<key>Modules/CrowdConnectedCoreBluetooth.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
@@ -123,28 +123,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			pyuwppqzOGAJAxxvbm28Yk36ZWmfj0eHXhp2BJRjFqs=
+			UpeVae61DQGtWLy1zE/PWGNI8EfiUM7LVF6K6ZYtwpY=
 			</data>
 		</dict>
 		<key>Modules/CrowdConnectedCoreBluetooth.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			s5JF9snn0nlI88kY1vhz9dvqcsjtM5/5dH+bVw9GaSE=
+			Z+Q5c34apYCmScSRKwb3yGiOJTS1fsgjHmcCWQI2dtA=
 			</data>
 		</dict>
 		<key>Modules/CrowdConnectedCoreBluetooth.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			pyuwppqzOGAJAxxvbm28Yk36ZWmfj0eHXhp2BJRjFqs=
+			UpeVae61DQGtWLy1zE/PWGNI8EfiUM7LVF6K6ZYtwpY=
 			</data>
 		</dict>
 		<key>Modules/CrowdConnectedCoreBluetooth.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			7u/a/CC0oKYdEampfjt8U3N44TbN/YSfYKZ8LOy7lqs=
+			YB0oeOqsMOokSnnB18UGI/iwfkrp1BG4sQxvvUlM8s4=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
