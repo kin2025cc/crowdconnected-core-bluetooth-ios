@@ -47,23 +47,6 @@
       },
       {
         "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "CrowdConnectedCoreBluetooth",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "CrowdConnectedShared",
-        "printedName": "CrowdConnectedShared",
-        "declKind": "Import",
-        "moduleName": "CrowdConnectedCoreBluetooth"
-      },
-      {
-        "kind": "Import",
         "name": "CrowdConnectedShared",
         "printedName": "CrowdConnectedShared",
         "declKind": "Import",
@@ -435,20 +418,6 @@
       "value": "\"0\""
     },
     {
-      "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/CrowdConnectedCoreBluetooth\/CrowdConnectedCoreBluetooth\/Models\/BluetoothSettings.swift",
-      "kind": "StringLiteral",
-      "offset": 573,
-      "length": 66,
-      "value": "\"Failed to decode BluetoothSettings from dictionary \""
-    },
-    {
-      "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/CrowdConnectedCoreBluetooth\/CrowdConnectedCoreBluetooth\/Models\/BluetoothSettings.swift",
-      "kind": "StringLiteral",
-      "offset": 638,
-      "length": 2,
-      "value": "\"\""
-    },
-    {
       "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/CrowdConnectedCoreBluetooth\/CrowdConnectedCoreBluetooth\/Interface\/CrowdConnectedCoreBluetooth.swift",
       "kind": "StringLiteral",
       "offset": 1758,
@@ -464,15 +433,22 @@
     },
     {
       "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/CrowdConnectedCoreBluetooth\/CrowdConnectedCoreBluetooth\/StateMonitor\/CoreBluetoothStateMonitor.swift",
-      "kind": "Array",
-      "offset": 1356,
-      "length": 2,
-      "value": "[]"
+      "kind": "StringLiteral",
+      "offset": 1245,
+      "length": 12,
+      "value": "\"nidsToScan\""
+    },
+    {
+      "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/CrowdConnectedCoreBluetooth\/CrowdConnectedCoreBluetooth\/StateMonitor\/CoreBluetoothStateMonitor.swift",
+      "kind": "StringLiteral",
+      "offset": 2960,
+      "length": 12,
+      "value": "\"nidsToScan\""
     },
     {
       "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/CrowdConnectedCoreBluetooth\/CrowdConnectedCoreBluetooth\/StateMonitor\/CoreBluetoothStateMonitor.swift",
       "kind": "Array",
-      "offset": 3083,
+      "offset": 3121,
       "length": 2,
       "value": "[]"
     },
