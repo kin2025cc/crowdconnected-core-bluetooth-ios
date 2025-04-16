@@ -47,6 +47,23 @@
       },
       {
         "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "CrowdConnectedCoreBluetooth",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "CrowdConnectedShared",
+        "printedName": "CrowdConnectedShared",
+        "declKind": "Import",
+        "moduleName": "CrowdConnectedCoreBluetooth"
+      },
+      {
+        "kind": "Import",
         "name": "CrowdConnectedShared",
         "printedName": "CrowdConnectedShared",
         "declKind": "Import",
@@ -201,504 +218,91 @@
   },
   "ConstValues": [
     {
-      "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/CrowdConnectedCoreBluetooth\/CrowdConnectedCoreBluetooth\/Models\/EddystoneBeaconID.swift",
-      "kind": "StringLiteral",
-      "offset": 628,
-      "length": 2,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/CrowdConnectedCoreBluetooth\/CrowdConnectedCoreBluetooth\/Models\/EddystoneBeaconID.swift",
-      "kind": "IntegerLiteral",
-      "offset": 711,
-      "length": 2,
-      "value": "16"
-    },
-    {
-      "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/CrowdConnectedCoreBluetooth\/CrowdConnectedCoreBluetooth\/Models\/EddystoneBeaconID.swift",
-      "kind": "BooleanLiteral",
-      "offset": 726,
-      "length": 4,
-      "value": "true"
-    },
-    {
-      "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/CrowdConnectedCoreBluetooth\/CrowdConnectedCoreBluetooth\/Models\/EddystoneBeaconID.swift",
-      "kind": "IntegerLiteral",
-      "offset": 768,
-      "length": 1,
-      "value": "1"
-    },
-    {
-      "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/CrowdConnectedCoreBluetooth\/CrowdConnectedCoreBluetooth\/Models\/EddystoneBeaconID.swift",
-      "kind": "StringLiteral",
-      "offset": 802,
-      "length": 3,
-      "value": "\"0\""
-    },
-    {
-      "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/CrowdConnectedCoreBluetooth\/CrowdConnectedCoreBluetooth\/Models\/EddystoneBeaconID.swift",
+      "filePath": "\/Users\/ralfkernchen\/ColocatorV3iOS\/CrowdConnectedCoreBluetooth\/CrowdConnectedCoreBluetooth\/Models\/EddystoneBeaconID.swift",
       "kind": "StringLiteral",
       "offset": 80,
       "length": 17,
       "value": "\"CrowdConnectedCoreBluetooth.EddystoneBeaconID\""
     },
     {
-      "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/CrowdConnectedCoreBluetooth\/CrowdConnectedCoreBluetooth\/Scanner\/BeaconScanner.swift",
+      "filePath": "\/Users\/ralfkernchen\/ColocatorV3iOS\/CrowdConnectedCoreBluetooth\/CrowdConnectedCoreBluetooth\/Scanner\/BeaconScanner.swift",
       "kind": "StringLiteral",
       "offset": 464,
       "length": 39,
       "value": "\"CrowdConnected.Eddystone.ScannerQueue\""
     },
     {
-      "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/CrowdConnectedCoreBluetooth\/CrowdConnectedCoreBluetooth\/Scanner\/BeaconScanner.swift",
+      "filePath": "\/Users\/ralfkernchen\/ColocatorV3iOS\/CrowdConnectedCoreBluetooth\/CrowdConnectedCoreBluetooth\/Scanner\/BeaconScanner.swift",
       "kind": "StringLiteral",
       "offset": 550,
       "length": 6,
       "value": "\"FEAA\""
     },
     {
-      "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/CrowdConnectedCoreBluetooth\/CrowdConnectedCoreBluetooth\/Scanner\/BeaconScanner.swift",
+      "filePath": "\/Users\/ralfkernchen\/ColocatorV3iOS\/CrowdConnectedCoreBluetooth\/CrowdConnectedCoreBluetooth\/Scanner\/BeaconScanner.swift",
       "kind": "BooleanLiteral",
       "offset": 824,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/CrowdConnectedCoreBluetooth\/CrowdConnectedCoreBluetooth\/Scanner\/BeaconScanner.swift",
+      "filePath": "\/Users\/ralfkernchen\/ColocatorV3iOS\/CrowdConnectedCoreBluetooth\/CrowdConnectedCoreBluetooth\/Scanner\/BeaconScanner.swift",
       "kind": "BooleanLiteral",
       "offset": 866,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/CrowdConnectedCoreBluetooth\/CrowdConnectedCoreBluetooth\/Scanner\/BeaconScanner.swift",
+      "filePath": "\/Users\/ralfkernchen\/ColocatorV3iOS\/CrowdConnectedCoreBluetooth\/CrowdConnectedCoreBluetooth\/Scanner\/BeaconScanner.swift",
       "kind": "BooleanLiteral",
       "offset": 924,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/CrowdConnectedCoreBluetooth\/CrowdConnectedCoreBluetooth\/Scanner\/BeaconScanner.swift",
+      "filePath": "\/Users\/ralfkernchen\/ColocatorV3iOS\/CrowdConnectedCoreBluetooth\/CrowdConnectedCoreBluetooth\/Scanner\/BeaconScanner.swift",
       "kind": "Array",
       "offset": 970,
       "length": 2,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/CrowdConnectedCoreBluetooth\/CrowdConnectedCoreBluetooth\/Scanner\/BeaconScanner.swift",
-      "kind": "StringLiteral",
-      "offset": 1114,
-      "length": 43,
-      "value": "\"Enable scanning for Bluetooth peripherals\""
-    },
-    {
-      "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/CrowdConnectedCoreBluetooth\/CrowdConnectedCoreBluetooth\/Scanner\/BeaconScanner.swift",
-      "kind": "BooleanLiteral",
-      "offset": 1188,
-      "length": 4,
-      "value": "true"
-    },
-    {
-      "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/CrowdConnectedCoreBluetooth\/CrowdConnectedCoreBluetooth\/Scanner\/BeaconScanner.swift",
-      "kind": "StringLiteral",
-      "offset": 1313,
-      "length": 41,
-      "value": "\"Stop scanning for Bluetooth peripherals\""
-    },
-    {
-      "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/CrowdConnectedCoreBluetooth\/CrowdConnectedCoreBluetooth\/Scanner\/BeaconScanner.swift",
-      "kind": "BooleanLiteral",
-      "offset": 1385,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/CrowdConnectedCoreBluetooth\/CrowdConnectedCoreBluetooth\/Scanner\/BeaconScanner.swift",
-      "kind": "BooleanLiteral",
-      "offset": 1420,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/CrowdConnectedCoreBluetooth\/CrowdConnectedCoreBluetooth\/Scanner\/BeaconScanner.swift",
-      "kind": "BooleanLiteral",
-      "offset": 1470,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/CrowdConnectedCoreBluetooth\/CrowdConnectedCoreBluetooth\/Scanner\/BeaconScanner.swift",
-      "kind": "StringLiteral",
-      "offset": 1713,
-      "length": 24,
-      "value": "\"Update NIDs to \""
-    },
-    {
-      "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/CrowdConnectedCoreBluetooth\/CrowdConnectedCoreBluetooth\/Scanner\/BeaconScanner.swift",
-      "kind": "StringLiteral",
-      "offset": 1736,
-      "length": 2,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/CrowdConnectedCoreBluetooth\/CrowdConnectedCoreBluetooth\/Scanner\/BeaconScanner.swift",
-      "kind": "StringLiteral",
-      "offset": 2562,
-      "length": 54,
-      "value": "\"Unable to find service data; can't process Eddystone\""
-    },
-    {
-      "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/CrowdConnectedCoreBluetooth\/CrowdConnectedCoreBluetooth\/Scanner\/BeaconScanner.swift",
-      "kind": "BooleanLiteral",
-      "offset": 4306,
-      "length": 4,
-      "value": "true"
-    },
-    {
-      "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/CrowdConnectedCoreBluetooth\/CrowdConnectedCoreBluetooth\/Scanner\/BeaconScanner.swift",
-      "kind": "StringLiteral",
-      "offset": 4386,
-      "length": 42,
-      "value": "\"Start scanning for Bluetooth peripherals\""
-    },
-    {
-      "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/CrowdConnectedCoreBluetooth\/CrowdConnectedCoreBluetooth\/Scanner\/BeaconScanner.swift",
-      "kind": "BooleanLiteral",
-      "offset": 4488,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/CrowdConnectedCoreBluetooth\/CrowdConnectedCoreBluetooth\/Scanner\/BeaconScanner.swift",
-      "kind": "BooleanLiteral",
-      "offset": 4536,
-      "length": 4,
-      "value": "true"
-    },
-    {
-      "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/CrowdConnectedCoreBluetooth\/CrowdConnectedCoreBluetooth\/Scanner\/BeaconScanner.swift",
-      "kind": "BooleanLiteral",
-      "offset": 4664,
-      "length": 4,
-      "value": "true"
-    },
-    {
-      "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/CrowdConnectedCoreBluetooth\/CrowdConnectedCoreBluetooth\/Scanner\/BeaconScanner.swift",
-      "kind": "StringLiteral",
-      "offset": 4876,
-      "length": 2,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/CrowdConnectedCoreBluetooth\/CrowdConnectedCoreBluetooth\/Scanner\/BeaconScanner.swift",
-      "kind": "IntegerLiteral",
-      "offset": 4955,
-      "length": 2,
-      "value": "16"
-    },
-    {
-      "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/CrowdConnectedCoreBluetooth\/CrowdConnectedCoreBluetooth\/Scanner\/BeaconScanner.swift",
-      "kind": "BooleanLiteral",
-      "offset": 4970,
-      "length": 4,
-      "value": "true"
-    },
-    {
-      "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/CrowdConnectedCoreBluetooth\/CrowdConnectedCoreBluetooth\/Scanner\/BeaconScanner.swift",
-      "kind": "IntegerLiteral",
-      "offset": 5012,
-      "length": 1,
-      "value": "1"
-    },
-    {
-      "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/CrowdConnectedCoreBluetooth\/CrowdConnectedCoreBluetooth\/Scanner\/BeaconScanner.swift",
-      "kind": "StringLiteral",
-      "offset": 5046,
-      "length": 3,
-      "value": "\"0\""
-    },
-    {
-      "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/CrowdConnectedCoreBluetooth\/CrowdConnectedCoreBluetooth\/Interface\/CrowdConnectedCoreBluetooth.swift",
-      "kind": "StringLiteral",
-      "offset": 1758,
-      "length": 10,
-      "value": "\"isActive\""
-    },
-    {
-      "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/CrowdConnectedCoreBluetooth\/CrowdConnectedCoreBluetooth\/Interface\/CrowdConnectedCoreBluetooth.swift",
-      "kind": "BooleanLiteral",
-      "offset": 1770,
-      "length": 4,
-      "value": "true"
-    },
-    {
-      "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/CrowdConnectedCoreBluetooth\/CrowdConnectedCoreBluetooth\/StateMonitor\/CoreBluetoothStateMonitor.swift",
-      "kind": "StringLiteral",
-      "offset": 1245,
-      "length": 12,
-      "value": "\"nidsToScan\""
-    },
-    {
-      "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/CrowdConnectedCoreBluetooth\/CrowdConnectedCoreBluetooth\/StateMonitor\/CoreBluetoothStateMonitor.swift",
-      "kind": "StringLiteral",
-      "offset": 2960,
-      "length": 12,
-      "value": "\"nidsToScan\""
-    },
-    {
-      "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/CrowdConnectedCoreBluetooth\/CrowdConnectedCoreBluetooth\/StateMonitor\/CoreBluetoothStateMonitor.swift",
-      "kind": "Array",
-      "offset": 3121,
-      "length": 2,
-      "value": "[]"
-    },
-    {
-      "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/CrowdConnectedCoreBluetooth\/CrowdConnectedCoreBluetooth\/Scanner\/BeaconObserver.swift",
-      "kind": "StringLiteral",
-      "offset": 1113,
-      "length": 51,
-      "value": "\"New eddystone observation \""
-    },
-    {
-      "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/CrowdConnectedCoreBluetooth\/CrowdConnectedCoreBluetooth\/Scanner\/BeaconObserver.swift",
-      "kind": "StringLiteral",
-      "offset": 1163,
-      "length": 2,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/CrowdConnectedCoreBluetooth\/CrowdConnectedCoreBluetooth\/Scanner\/BeaconObserver.swift",
-      "kind": "Dictionary",
-      "offset": 1316,
-      "length": 3,
-      "value": "[]"
-    },
-    {
-      "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/CrowdConnectedCoreBluetooth\/CrowdConnectedCoreBluetooth\/Scanner\/BeaconObserver.swift",
-      "kind": "StringLiteral",
-      "offset": 1339,
-      "length": 11,
-      "value": "\"beaconNID\""
-    },
-    {
-      "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/CrowdConnectedCoreBluetooth\/CrowdConnectedCoreBluetooth\/Scanner\/BeaconObserver.swift",
-      "kind": "StringLiteral",
-      "offset": 1391,
-      "length": 11,
-      "value": "\"beaconBID\""
-    },
-    {
-      "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/CrowdConnectedCoreBluetooth\/CrowdConnectedCoreBluetooth\/Scanner\/BeaconObserver.swift",
-      "kind": "StringLiteral",
-      "offset": 1447,
-      "length": 6,
-      "value": "\"RSSI\""
-    },
-    {
-      "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/CrowdConnectedCoreBluetooth\/CrowdConnectedCoreBluetooth\/Scanner\/BeaconObserver.swift",
-      "kind": "StringLiteral",
-      "offset": 1492,
-      "length": 11,
-      "value": "\"timestamp\""
-    },
-    {
-      "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/CrowdConnectedCoreBluetooth\/CrowdConnectedCoreBluetooth\/Scanner\/BeaconObserver.swift",
+      "filePath": "\/Users\/ralfkernchen\/ColocatorV3iOS\/CrowdConnectedCoreBluetooth\/CrowdConnectedCoreBluetooth\/Scanner\/BeaconObserver.swift",
       "kind": "StringLiteral",
       "offset": 257,
       "length": 14,
       "value": "\"CrowdConnectedCoreBluetooth.BeaconObserver\""
     },
     {
-      "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/CrowdConnectedCoreBluetooth\/CrowdConnectedCoreBluetooth\/Models\/EddystoneBeaconInfo.swift",
+      "filePath": "\/Users\/ralfkernchen\/ColocatorV3iOS\/CrowdConnectedCoreBluetooth\/CrowdConnectedCoreBluetooth\/Models\/EddystoneBeaconInfo.swift",
       "kind": "IntegerLiteral",
       "offset": 339,
       "length": 4,
       "value": "0x00"
     },
     {
-      "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/CrowdConnectedCoreBluetooth\/CrowdConnectedCoreBluetooth\/Models\/EddystoneBeaconInfo.swift",
+      "filePath": "\/Users\/ralfkernchen\/ColocatorV3iOS\/CrowdConnectedCoreBluetooth\/CrowdConnectedCoreBluetooth\/Models\/EddystoneBeaconInfo.swift",
       "kind": "IntegerLiteral",
       "offset": 392,
       "length": 4,
       "value": "0x10"
     },
     {
-      "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/CrowdConnectedCoreBluetooth\/CrowdConnectedCoreBluetooth\/Models\/EddystoneBeaconInfo.swift",
+      "filePath": "\/Users\/ralfkernchen\/ColocatorV3iOS\/CrowdConnectedCoreBluetooth\/CrowdConnectedCoreBluetooth\/Models\/EddystoneBeaconInfo.swift",
       "kind": "IntegerLiteral",
       "offset": 445,
       "length": 4,
       "value": "0x20"
     },
     {
-      "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/CrowdConnectedCoreBluetooth\/CrowdConnectedCoreBluetooth\/Models\/EddystoneBeaconInfo.swift",
+      "filePath": "\/Users\/ralfkernchen\/ColocatorV3iOS\/CrowdConnectedCoreBluetooth\/CrowdConnectedCoreBluetooth\/Models\/EddystoneBeaconInfo.swift",
       "kind": "IntegerLiteral",
       "offset": 498,
       "length": 4,
       "value": "0x30"
     },
     {
-      "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/CrowdConnectedCoreBluetooth\/CrowdConnectedCoreBluetooth\/Models\/EddystoneBeaconInfo.swift",
-      "kind": "StringLiteral",
-      "offset": 794,
-      "length": 20,
-      "value": "\"Unknown Frame Type\""
-    },
-    {
-      "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/CrowdConnectedCoreBluetooth\/CrowdConnectedCoreBluetooth\/Models\/EddystoneBeaconInfo.swift",
-      "kind": "StringLiteral",
-      "offset": 870,
-      "length": 11,
-      "value": "\"UID Frame\""
-    },
-    {
-      "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/CrowdConnectedCoreBluetooth\/CrowdConnectedCoreBluetooth\/Models\/EddystoneBeaconInfo.swift",
-      "kind": "StringLiteral",
-      "offset": 937,
-      "length": 11,
-      "value": "\"URL Frame\""
-    },
-    {
-      "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/CrowdConnectedCoreBluetooth\/CrowdConnectedCoreBluetooth\/Models\/EddystoneBeaconInfo.swift",
-      "kind": "StringLiteral",
-      "offset": 1010,
-      "length": 11,
-      "value": "\"TLM Frame\""
-    },
-    {
-      "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/CrowdConnectedCoreBluetooth\/CrowdConnectedCoreBluetooth\/Models\/EddystoneBeaconInfo.swift",
-      "kind": "StringLiteral",
-      "offset": 1077,
-      "length": 11,
-      "value": "\"EID Frame\""
-    },
-    {
-      "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/CrowdConnectedCoreBluetooth\/CrowdConnectedCoreBluetooth\/Models\/EddystoneBeaconInfo.swift",
-      "kind": "Array",
-      "offset": 1394,
-      "length": 6,
-      "value": "[0, 0]"
-    },
-    {
-      "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/CrowdConnectedCoreBluetooth\/CrowdConnectedCoreBluetooth\/Models\/EddystoneBeaconInfo.swift",
-      "kind": "IntegerLiteral",
-      "offset": 1558,
-      "length": 1,
-      "value": "1"
-    },
-    {
-      "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/CrowdConnectedCoreBluetooth\/CrowdConnectedCoreBluetooth\/Models\/EddystoneBeaconInfo.swift",
-      "kind": "StringLiteral",
-      "offset": 2090,
-      "length": 6,
-      "value": "\"FEAA\""
-    },
-    {
-      "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/CrowdConnectedCoreBluetooth\/CrowdConnectedCoreBluetooth\/Models\/EddystoneBeaconInfo.swift",
-      "kind": "IntegerLiteral",
-      "offset": 2201,
-      "length": 1,
-      "value": "1"
-    },
-    {
-      "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/CrowdConnectedCoreBluetooth\/CrowdConnectedCoreBluetooth\/Models\/EddystoneBeaconInfo.swift",
-      "kind": "IntegerLiteral",
-      "offset": 2302,
-      "length": 1,
-      "value": "0"
-    },
-    {
-      "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/CrowdConnectedCoreBluetooth\/CrowdConnectedCoreBluetooth\/Models\/EddystoneBeaconInfo.swift",
-      "kind": "IntegerLiteral",
-      "offset": 2413,
-      "length": 1,
-      "value": "0"
-    },
-    {
-      "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/CrowdConnectedCoreBluetooth\/CrowdConnectedCoreBluetooth\/Models\/EddystoneBeaconInfo.swift",
-      "kind": "IntegerLiteral",
-      "offset": 2541,
-      "length": 1,
-      "value": "0"
-    },
-    {
-      "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/CrowdConnectedCoreBluetooth\/CrowdConnectedCoreBluetooth\/Models\/EddystoneBeaconInfo.swift",
-      "kind": "IntegerLiteral",
-      "offset": 2675,
-      "length": 1,
-      "value": "0"
-    },
-    {
-      "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/CrowdConnectedCoreBluetooth\/CrowdConnectedCoreBluetooth\/Models\/EddystoneBeaconInfo.swift",
-      "kind": "IntegerLiteral",
-      "offset": 2803,
-      "length": 1,
-      "value": "0"
-    },
-    {
-      "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/CrowdConnectedCoreBluetooth\/CrowdConnectedCoreBluetooth\/Models\/EddystoneBeaconInfo.swift",
-      "kind": "IntegerLiteral",
-      "offset": 3244,
-      "length": 1,
-      "value": "0"
-    },
-    {
-      "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/CrowdConnectedCoreBluetooth\/CrowdConnectedCoreBluetooth\/Models\/EddystoneBeaconInfo.swift",
-      "kind": "IntegerLiteral",
-      "offset": 3351,
-      "length": 1,
-      "value": "0"
-    },
-    {
-      "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/CrowdConnectedCoreBluetooth\/CrowdConnectedCoreBluetooth\/Models\/EddystoneBeaconInfo.swift",
-      "kind": "IntegerLiteral",
-      "offset": 3403,
-      "length": 2,
-      "value": "18"
-    },
-    {
-      "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/CrowdConnectedCoreBluetooth\/CrowdConnectedCoreBluetooth\/Models\/EddystoneBeaconInfo.swift",
-      "kind": "StringLiteral",
-      "offset": 3426,
-      "length": 63,
-      "value": "\"Frame Data for UID Frame does not have the expected structure\""
-    },
-    {
-      "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/CrowdConnectedCoreBluetooth\/CrowdConnectedCoreBluetooth\/Models\/EddystoneBeaconInfo.swift",
-      "kind": "IntegerLiteral",
-      "offset": 3579,
-      "length": 1,
-      "value": "1"
-    },
-    {
-      "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/CrowdConnectedCoreBluetooth\/CrowdConnectedCoreBluetooth\/Models\/EddystoneBeaconInfo.swift",
-      "kind": "IntegerLiteral",
-      "offset": 3634,
-      "length": 1,
-      "value": "2"
-    },
-    {
-      "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/CrowdConnectedCoreBluetooth\/CrowdConnectedCoreBluetooth\/Models\/EddystoneBeaconInfo.swift",
-      "kind": "IntegerLiteral",
-      "offset": 3638,
-      "length": 2,
-      "value": "12"
-    },
-    {
-      "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/CrowdConnectedCoreBluetooth\/CrowdConnectedCoreBluetooth\/Models\/EddystoneBeaconInfo.swift",
-      "kind": "IntegerLiteral",
-      "offset": 3693,
-      "length": 2,
-      "value": "12"
-    },
-    {
-      "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/CrowdConnectedCoreBluetooth\/CrowdConnectedCoreBluetooth\/Models\/EddystoneBeaconInfo.swift",
-      "kind": "IntegerLiteral",
-      "offset": 3698,
-      "length": 2,
-      "value": "18"
-    },
-    {
-      "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/CrowdConnectedCoreBluetooth\/CrowdConnectedCoreBluetooth\/Models\/EddystoneBeaconInfo.swift",
+      "filePath": "\/Users\/ralfkernchen\/ColocatorV3iOS\/CrowdConnectedCoreBluetooth\/CrowdConnectedCoreBluetooth\/Models\/EddystoneBeaconInfo.swift",
       "kind": "StringLiteral",
       "offset": 258,
       "length": 19,
